@@ -4,3 +4,8 @@
 # Now you will see a picture of Mardigrastocat
 
 ![Mardigrastocat](https://github.com/dhilipsiva/octodex/blob/master/png/Mardigrastocat.png)
+
+
+``` python
+success = True
+```
